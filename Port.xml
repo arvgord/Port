@@ -1,0 +1,17 @@
+<ships>
+    <ship number="1">
+        <loaded>true</loaded>
+    </ship>
+    <ship number="2">
+        <loaded>true</loaded>
+    </ship>
+    <ship number="3">
+        <loaded>true</loaded>
+    </ship>
+    <ship number="4">
+        <loaded>true</loaded>
+    </ship>
+    <ship number="5">
+        <loaded>false</loaded>
+    </ship>
+</ships>
