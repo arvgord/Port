@@ -9,8 +9,6 @@ import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
-import java.util.logging.Level;
 import javax.xml.stream.XMLStreamException;
 import org.apache.logging.log4j.LogManager;
 import xyz.prodes.port.state.Ship;
